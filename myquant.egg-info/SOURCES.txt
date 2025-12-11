@@ -1,0 +1,8 @@
+setup.py
+myquant/__init__.py
+myquant/client.py
+myquant.egg-info/PKG-INFO
+myquant.egg-info/SOURCES.txt
+myquant.egg-info/dependency_links.txt
+myquant.egg-info/requires.txt
+myquant.egg-info/top_level.txt
